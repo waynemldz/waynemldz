@@ -8,6 +8,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     height: 100vh;
 }
 
@@ -25,7 +26,7 @@ ul#item-list{
     flex-wrap: wrap;
     gap: 20px;
 }
-li{
+li.item{
     width: 290px;
     height: 330px;
     border: 1px solid black;
@@ -37,9 +38,65 @@ li{
     position: relative;
 }
 
-li p{
+li p.item-name{
     position: absolute;
-    bottom: 0;
+    bottom: 80px;
     left: 50%;
     transform: translateX(-50%);
+}
+
+li p.price{
+    position: absolute;
+    bottom: 45px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 23px;
+}
+
+li button.add-cart{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 5px;
+}
+
+#cart{
+    border: 2px solid rgba(0, 0, 0, 0.342);
+    width: 20vw;
+    height: 100vh;
+    position: absolute;
+    right: 0;
+}
+
+#cart h2{
+    margin:40px 0 0 40px;
+}
+
+#cart-list{
+    margin-top: 30px;
+}
+
+#cart-list li.item-cart{
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+#cart-list li button.btn-remove{
+    width: 70px;
+}
+
+#cart h3#total{
+    position: absolute;
+    bottom: 30px;
+    margin-left: 40px;
+}
+
+#show-cart{
+    padding: 20px;
+    margin-top: 15px;
 }
