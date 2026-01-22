@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Wayne Gabriel
 
 🎓 ADS student  
-💻 Front-end developer in training  
+💻 Developer in training  
 🚀 Focused on building real projects
 
 ### 🛠 Tech Stack
@@ -15,4 +15,4 @@
 - Responsive layouts
 
 ### 📫 Contact
-- LinkedIn: (seu link)
+- LinkedIn: https://www.linkedin.com/in/gabrielmldz/
