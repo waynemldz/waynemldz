@@ -60,7 +60,7 @@ Atualmente meu foco está em **C# e .NET**, enquanto continuo aprimorando meus c
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="[https://github-stats-extended.vercel.app/api/top-langs?username=waynemldz&layout=compact&langs_count=6&theme=dark](https://github-stats-extended.vercel.app/api/top-langs?username=waynemldz&layout=compact&langs_count=5&theme=dark)" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=waynemldz&layout=compact&langs_count=5&theme=dark" />
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=waynemldz&rank_icon=default&hide_rank=true&show_icons=true&theme=dark" />
 </p>
 
