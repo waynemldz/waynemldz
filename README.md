@@ -1,7 +1,6 @@
 # 👨🏻‍💻 Wayne Gabriel
 
 🚀 **🎓 Estudante de Análise e Desenvolvimento de Sistemas**  
-🇧🇷 Brazil
 
 💻 **Desenvolvedor em formação**, construindo projetos para desenvolver uma base sólida em **programação** e engenharia de software.
 
